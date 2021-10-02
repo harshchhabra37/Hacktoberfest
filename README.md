@@ -16,6 +16,12 @@ https://github.com/hkaur008/Hacktoberfest-21
 
 <hr>
 
+[Sarthak Mittal](https://github.com/mostlypanda)
+
+https://github.com/mostlypanda/Node-js-functionalities
+
+<hr>
+
 [Shashwat Sahu](https://github.com/Shashwat-Sahu)
 
 https://github.com/Shashwat-Sahu/CP-DSA
