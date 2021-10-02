@@ -1,5 +1,5 @@
 # Hactoberfest
-This is the list of repos accepting merge requests under Hacktoberfest.
+This is the list of repos accepting pull requests under Hacktoberfest.
 
 [Codeflow](https://www.github.com/codeflow201)
 
