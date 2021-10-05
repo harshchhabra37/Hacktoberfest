@@ -10,12 +10,6 @@ https://github.com/CodeFlow201/forestTreesTagging
 https://github.com/CodeFlow201/codeflow
 <hr>
 
-[Hargun Kaur](https://www.github.com/hkaur008)
-
-https://github.com/hkaur008/Hacktoberfest-21
-
-<hr>
-
 [Sarthak Mittal](https://github.com/mostlypanda)
 
 https://github.com/mostlypanda/Node-js-functionalities
